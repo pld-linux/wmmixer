@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 A mixer designed for WindowMaker.
 
 %description -l pl
-Program do regulacji g³o¶no¶ci dzwiêku dla WindowMakera.
+Program do regulacji g³o¶no¶ci d¼wiêku dla WindowMakera.
 
 %prep
 %setup -q
