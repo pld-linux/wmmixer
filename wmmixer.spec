@@ -25,7 +25,7 @@ Program do regulacji g³o¶no¶ci d¼wiêku dla WindowMakera.
 %{__make} \
 	CXX="%{__cxx}" \
 	LD="%{__cxx}" \
-	CXXFLAGS="%{rpmcflags}" 
+	CXXFLAGS="%{rpmcflags}"
 
 %install
 rm -rf $RPM_BUILD_ROOT
