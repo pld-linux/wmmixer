@@ -1,12 +1,12 @@
 Summary:	A mixer designed for WindowMaker
-Summary(pl):	Program do regulacji g³o¶no¶ci dzwiêku dla WindowMaker'a
+Summary(pl):	Program do regulacji g³o¶no¶ci d¼wiêku dla WindowMakera
 Name:		wmmixer
 Version:	1.5
 Release:	1
 License:	GPL
 Group:		Applications/Sound
 Source0:	http://freakzone.net/gordon/src/%{name}-%{version}.tar.gz
-URL:	http://freakzone.net/gordon/
+URL:		http://freakzone.net/gordon/
 BuildRequires:	XFree86-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 A mixer designed for WindowMaker.
 
 %description -l pl
-Program do regulacji g³o¶no¶ci dzwiêku dla WindowMaker'a
+Program do regulacji g³o¶no¶ci dzwiêku dla WindowMakera.
 
 %prep
 %setup -q
