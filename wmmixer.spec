@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/Sound
 Source0:	http://freakzone.net/gordon/src/%{name}-%{version}.tar.gz
+# Source0-md5:	bfb1ded801910dd39e1bb0b273c4e1c3
 URL:		http://freakzone.net/gordon/
 BuildRequires:	XFree86-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
