@@ -1,5 +1,5 @@
 Summary:	A mixer designed for WindowMaker
-Summary(pl.UTF-8):   Program do regulacji głośności dźwięku dla WindowMakera
+Summary(pl.UTF-8):	Program do regulacji głośności dźwięku dla WindowMakera
 Name:		wmmixer
 Version:	1.5
 Release:	1
