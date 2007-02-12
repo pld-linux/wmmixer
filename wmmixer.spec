@@ -1,5 +1,5 @@
 Summary:	A mixer designed for WindowMaker
-Summary(pl):	Program do regulacji g≥o∂no∂ci dºwiÍku dla WindowMakera
+Summary(pl.UTF-8):   Program do regulacji g≈Ço≈õno≈õci d≈∫wiƒôku dla WindowMakera
 Name:		wmmixer
 Version:	1.5
 Release:	1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A mixer designed for WindowMaker.
 
-%description -l pl
-Program do regulacji g≥o∂no∂ci dºwiÍku dla WindowMakera.
+%description -l pl.UTF-8
+Program do regulacji g≈Ço≈õno≈õci d≈∫wiƒôku dla WindowMakera.
 
 %prep
 %setup -q
